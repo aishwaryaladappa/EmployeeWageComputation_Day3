@@ -5,8 +5,8 @@
         public static void Main(string[] args)
         {
             // Console.WriteLine("Welcome to employeewage problem");
-            EmployeeWage.Wage();
-                
+            // EmployeeWage.Wage();
+            Parttime.EmpParttime();
          }
     }
 }
