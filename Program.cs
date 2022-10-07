@@ -8,7 +8,8 @@
             // EmployeeWage.Wage();
             //  Parttime.EmpParttime();
             // Switchcase.EmpWageSwitch();
-            ForTwentyDays.EmpWageSwitch();
+            // ForTwentyDays.EmpWageSwitch();
+            TotalWorkingHourPerMonth.TotalWorkingHrs();
          }
     }
 }
