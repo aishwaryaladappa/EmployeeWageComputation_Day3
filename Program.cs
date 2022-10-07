@@ -6,7 +6,8 @@
         {
             // Console.WriteLine("Welcome to employeewage problem");
             // EmployeeWage.Wage();
-            Parttime.EmpParttime();
+            //  Parttime.EmpParttime();
+            Switchcase.EmpWageSwitch();
          }
     }
 }
