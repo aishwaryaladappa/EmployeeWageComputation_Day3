@@ -4,7 +4,9 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to employeewage problem");
+            // Console.WriteLine("Welcome to employeewage problem");
+            EmployeeWage.Wage();
+                
          }
     }
 }
